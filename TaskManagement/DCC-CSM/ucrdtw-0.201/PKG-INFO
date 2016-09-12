@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ucrdtw
+Version: 0.201
+Summary: Fast Dynamic Time Warping, O(n log n) 
+Home-page: https://pypi.python.org/pypi/pip
+Author: m3at
+Author-email: paul@alpacadb.com
+License: MIT
+Description: Based on the following paper: http://www.cs.ucr.edu/~eamonn/SIGKDD_trillion.pdf
+Keywords: Dynamic Time Wraping
+Platform: UNKNOWN
